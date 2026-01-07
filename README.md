@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Senior Test Engineer | Automation | API | Mobile | Performance</h3>
 
 <p align="center">
-  <a href="mailto:your-email"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:kunal.pro.freelance@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
